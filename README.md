@@ -1,4 +1,4 @@
-# Satyam Fraud Investigation — Forensic Financial Analysis
+# Satyam Fraud Investigation & Forensic Financial Analysis
 
 An independent forensic reconstruction of India's largest corporate fraud (₹7,136 Cr, FY2005–FY2008), built entirely in Excel from public annual reports, the Raju confession letter, and CID findings.
 
